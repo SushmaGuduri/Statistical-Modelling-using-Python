@@ -1,4 +1,6 @@
 Music Track Popularity Analysis
+
+
 Introduction
 Statistical modeling uses statistics to predict real-world behaviors and outcomes based on data. It involves creating a statistical model, which represents relationships between variables using mathematical equations. If you're interested in learning statistical modeling, this article will guide you through the process using Python.
 
